@@ -15,7 +15,7 @@
 1.  Download ZIP <a href="https://github.com/9xc/sharezz-tiktokbotter-main/archive/refs/heads/main.zip">here</a> and extract the ZIP 
 2.  Install <a href="https://github.com/useragents/Instagram-Username-Auto-Claimer/blob/main/requirements.txt">requirements.txt</a> by typing `pip install -r requirements.txt` in Command Prompt
 3.  Run `sharezz.py`.
-4.  Enter your tiktok url [https://vm.tiktok.com/ZMLgEfWvk/]
+4.  Enter your tiktok url. Example: [https://vm.tiktok.com/ZMLgEfWvk/]
 5.  Enter amount of threads
 
 --------------------------------------
